@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=sampurna011&fontAlign=70&fontAlignY=50&fontSize=40&fontColor=ffffff&desc=iOS%20Developer%20%7C%20Swift%20%7C%20SwiftUI&descAlign=70&descAlignY=68&descSize=16&descColor=ccccff" width="100%"/>
 
 # Hi, I'm Sampurna 👋
 
